@@ -40,3 +40,6 @@ Los principales resultados y conclusiones obtenidos fueron:
 - Se validaron o rechazaron las hipotesis planteadas.
 - Se establecieron recomendaciones basadas en datos.
 
+# Herramientas
+
+https://console.cloud.google.com/bigquery?project=datalab-410116&ws=!1m0
